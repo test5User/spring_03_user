@@ -1,13 +1,10 @@
 package by.itclass.controllers;
 
 import by.itclass.model.service.UserService;
-import by.itclass.model.service.UserServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-
-import java.util.List;
 
 import static by.itclass.constants.AppConst.*;
 

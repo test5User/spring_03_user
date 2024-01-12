@@ -1,8 +1,6 @@
 package by.itclass.model.entities;
 
-import javax.persistence.*;
-
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "user")
